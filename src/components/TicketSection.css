@@ -1,0 +1,40 @@
+.matchRow {
+    margin: 10px 10px 10px 10px;
+    display: inline-block;
+    /* border: solid 2px black; */
+
+}
+
+.matchRow h2 {
+    margin: 0px 0px 0px 0px;
+    margin-bottom: 15px;
+    border: solid 2px black;
+}
+
+
+.matchRow--info {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 500px;
+}
+
+.matchRow--item {
+    width: 100%;
+    transform: scale(0.9);
+}
+
+.matchRow--item:hover {
+    width: 100%;
+    transform: scale(1);
+}
+
+.matchRow--item p {
+    margin: 0;
+    margin-bottom: 10px;
+
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
