@@ -3,16 +3,17 @@
 ## Sujet 
 
 Dans le cadre d'un projet personnel motivé par mon école, le but est :
--  pour le 29 Octobre, de réaliser l'analyse d'un système de ventes de billets pour une salle de spectacle
--  pour début décembre, de développer une application dans le même genre
+- pour le 29 Octobre, de réaliser l'analyse d'un système de ventes de billets pour une salle de spectacle
+- pour début décembre, de développer une application dans le même genre
+
+Ayant cru que la partie développement était optionnel et à rendre en même temps, j’ai donc déjà réalisé la partie développement, qui semble approximativement finie même s’il manque en effet quelques fonctionnalités et améliorations mais celles-ci ne seront pas forcément implémentées.
+
 
 ## Objectif 
 
-Mon but est personnellement double avec ce sujet. Le premier est d'apprendre à coder en ReactJS, sans oublier le plaisir du développement avec les différentes idées et fonctionnalités à implémenter, et le deuxième est de montrer ma motivation pour le choix de filière à venir : TSI - C. 
+Mon but est personnellement double avec ce sujet. Le premier est d'apprendre à coder en ReactJS, sans oublier le plaisir du développement avec les différentes idées et fonctionnalités à implémenter, et le deuxième est de montrer ma motivation pour le choix de filière à venir : TSI - C.
 
-Pour m'en assurer, je pense pouvoir dire que la partie développement est déjà finie. 
-La partie analyse permettra alors aussi de comparer les différentes fonctionnalités entre site référence choisi et celui créé pour l'occasion. 
-Cela me permettra d'estimer la qualité de mon application et de mettre en évidence les différences et les améliorations à apporter.
+Ce rapport fait alors l’analyse de ce site et me permet par ailleurs de comparer les différentes fonctionnalités entre site référence choisi et celui créé pour l'occasion. Ce qui me permettra d'estimer la qualité de l’application et de mettre en évidence ce qui pourrait être amélioré.
 
 ## Introduction 
 Mon choix s'est porté sur la création d'un site de vente de billets pour les matchs de la NBA, en m'inspirant de TicketMaster.
