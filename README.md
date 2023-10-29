@@ -32,13 +32,21 @@ Mon choix s'est porté sur la création d'un site de vente de billets pour les m
 - Installer MAMP ou equivalent
 - Création d'une base de données qui va accueillir nos tables
 - Fichier .env dans api_express
+
   Par exemple :
+
     SERVER_PORT = 8888
+
     DB_HOST = localhost
+
     DB_PORT = 3306 
+
     DB_NAME = maNBA
+
     DB_USER = root
+
     DB_PASS = root
+
     BCRYPT_SALT_ROUND = 10
 - npm i à la racine de api_express et manba
 - npm run dev à la racine de api_express pour lancer l'api
