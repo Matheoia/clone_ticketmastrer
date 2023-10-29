@@ -6,7 +6,7 @@ Dans le cadre d'un projet personnel motivé par mon école, le but est :
 - pour le 29 Octobre, de réaliser l'analyse d'un système de ventes de billets pour une salle de spectacle
 - pour début décembre, de développer une application dans le même genre
 
-Ayant cru que la partie développement était optionnel et à rendre en même temps, j’ai donc déjà réalisé la partie développement, qui semble approximativement finie même s’il manque en effet quelques fonctionnalités et améliorations mais celles-ci ne seront pas forcément implémentées.
+Ayant cru que la partie développement était optionnel et à rendre en même temps que le rapport d’analyse, j’ai donc déjà réalisé son développement, qui semble approximativement fini même s’il manque en effet quelques fonctionnalités et améliorations.
 
 
 ## Objectif 
