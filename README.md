@@ -17,7 +17,9 @@ Ce rapport fait alors l’analyse de ce site et me permet par ailleurs de compar
 
 ## Introduction 
 Mon choix s'est porté sur la création d'un site de vente de billets pour les matchs de la NBA, en m'inspirant de TicketMaster.
-<img width="646" alt="image" src="https://github.com/Matheoia/clone_ticketmastrer/assets/121936719/16db1023-b6c0-457f-8300-a36d060709ba">
+
+
+<img width="953" alt="image" src="https://github.com/Matheoia/clone_ticketmastrer/assets/121936719/7011df42-93da-4a78-ad73-976136555b2d">
 <img width="943" alt="image" src="https://github.com/Matheoia/clone_ticketmastrer/assets/121936719/aa4aa63f-772f-4c6a-9abf-08b6264f3a49">
 
 ## Installation
