@@ -31,7 +31,7 @@ Mon choix s'est porté sur la création d'un site de vente de billets pour les m
 (Rapidement)
 - Installer MAMP ou equivalent
 - Création d'une base de données qui va accueillir nos tables
-- Fichier .env dans api_express
+- Créer un fichier .env dans le dossier api_express
 
   Par exemple :
 
