@@ -24,14 +24,14 @@ Mon choix s'est porté sur la création d'un site de vente de billets pour les m
 
 ## Installation
 
+à venir
+
 ### Windows
 
-- Créer une base de données
-- 
 
 ### Linux
 
-- Etablir la liaison avec MariaDB
+
 
 
 
